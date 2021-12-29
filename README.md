@@ -1,5 +1,6 @@
 # android_manifest_j7elte 
 Manifests for building ROMs for the Galaxy J7 2015
+# [NOT READY YET!]
 
 ## How to use?
 1. Goto build dir
