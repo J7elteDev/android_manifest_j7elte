@@ -8,7 +8,7 @@
 -->
 <manifest>
 	<project path="device/samsung/j7elte"               name="J7elteDev/dot_device_j7elte"                         remote="github" revision="dot-11.x"/>
-	<project path="device/samsung/universal7580-common" name="J7elteDev/dot_device_common_j7elte"                  remote="github" revision="dot-11.x"/>
+	<project path="device/samsung/universal7580-common" name="J7elteDev/dot_device_7580-common"                  remote="github" revision="dot-11.x"/>
 	<project path="kernel/samsung/universal7580"        name="LineageOS/android_kernel_samsung_universal7580"      remote="github" revision="lineage-18.1"/>
 	<project path="vendor/samsung/j7elte"               name="J7elteDev/android_vendor_j7elte"                     remote="github" revision="lineage-18.1"/>
 	<project path="vendor/samsung/universal7580-common" name="J7elteDev/android_vendor_universal7580-common"       remote="github" revision="lineage-18.1"/>
